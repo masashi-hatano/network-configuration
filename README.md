@@ -74,7 +74,7 @@ nmtui
 ```
 
 ## References
-- [Command to check TCP/IP settings in Linux (Ubuntu)](https://www.n-study.com/tcp-ip/linux-tcpip-configuration/#:~:text=%E5%AE%9F%E8%A1%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82-,%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%82%B2%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AE%E7%A2%BA%E8%AA%8D,%E3%82%B2%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AEIP%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%81%A7%E3%81%99%E3%80%82)
-- [[Linux Command] Use nslookup to Query Name Resolution to DNS Server](https://algorithm.joho.info/unix/nslookup/#:~:text=%E3%80%8Cnslookup%E3%80%8D%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AF%E3%80%81DNS,%E3%81%AB%E3%82%88%E3%81%8F%E5%88%A9%E7%94%A8%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82)
+- [Commands to Verify TCP/IP Configuration On Linux (Ubuntu)](https://www.n-study.com/en/tcp-ip/linux-tcpip-configuration/)
+- [nslookup command in Linux with Examples](https://www.geeksforgeeks.org/nslookup-command-in-linux-with-examples/)
 - [[Ubuntu] Setting a Static IP Address (Wireless LAN, Wi-Fi Compatible): netplan](https://office54.net/iot/linux/ubuntu-ipaddress-netplan#section2-4)
 - [How to Know if IP Address is Static or Dynamic in Linux](https://linuxhint.com/know-if-ip-address-is-static-or-dynamic-in-linux/)
