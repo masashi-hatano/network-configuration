@@ -3,7 +3,7 @@
 ## 1. Copy the network configuration file
 To set a static IP address without editing the 01-network-manager-all.yaml network configuration file, copy it to another file and add the static IP address configuration to the new file.
 
-This is because there is a risk that the 50-cloud-init.yaml file may be overwritten by the cloud-init process, although this is not usually the case.
+This is because there is a risk that the  01-network-manager-all.yaml file may be overwritten by the cloud-init process, although this is not usually the case.
 
 Therefore, it is generally recommended to create a separate yaml file by copying the original file. However, it is important to pay attention to the name of the new yaml file that you create.
 
