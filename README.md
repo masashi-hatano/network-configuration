@@ -20,7 +20,7 @@ Therefore, name the copied yaml file so that it comes after 01-network-manager-a
 Here is an example command for copying the configuration file. In this example, the file is named 02-network-manager-all.yaml.
 ```
 cd /etc/netplan
-cp 01-network-manager-all.yaml 54-network-manager-all.yaml
+cp 01-network-manager-all.yaml 02-network-manager-all.yaml
 ```
 
 ## 2. Change the IP address to a static IP
