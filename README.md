@@ -64,7 +64,7 @@ ip route show
 nslookup www.grant.ne.jp
 ```
 
-## Apply the netplan configuration
+### Apply the netplan configuration
 Once ready apply the new Netplan configuration changes with the following command:
 ```
 sudo netplan apply
