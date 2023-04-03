@@ -76,5 +76,5 @@ nmtui
 ## References
 - [Commands to Verify TCP/IP Configuration On Linux (Ubuntu)](https://www.n-study.com/en/tcp-ip/linux-tcpip-configuration/)
 - [nslookup command in Linux with Examples](https://www.geeksforgeeks.org/nslookup-command-in-linux-with-examples/)
-- [[Ubuntu] Setting a Static IP Address (Wireless LAN, Wi-Fi Compatible): netplan](https://office54.net/iot/linux/ubuntu-ipaddress-netplan#section2-4)
+- [Netplan static IP on Ubuntu configuration](https://linuxconfig.org/how-to-configure-static-ip-address-on-ubuntu-18-04-bionic-beaver-linux)
 - [How to Know if IP Address is Static or Dynamic in Linux](https://linuxhint.com/know-if-ip-address-is-static-or-dynamic-in-linux/)
