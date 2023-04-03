@@ -64,7 +64,13 @@ ip route show
 nslookup www.grant.ne.jp
 ```
 
+Once ready apply the new Netplan configuration changes with the following command:
+```
+sudo netplan apply
+```
+
 ## 3. Verify if the IP is static
+You can verify that the IP address was made static with the following commands:
 ```
 ip r
 ```
