@@ -59,11 +59,6 @@ ip a
 ip route show
 ```
 
-### Check dns server address
-```
-nslookup www.grant.ne.jp
-```
-
 ### Apply the netplan configuration
 Once ready apply the new Netplan configuration changes with the following command:
 ```
