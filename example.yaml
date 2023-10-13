@@ -8,4 +8,4 @@ network:
       addresses: [192.168.111.199/22]
       gateway4: 192.168.108.1
       nameservers:
-        addresses: [192.168.108.1]
+        addresses: [8.8.8.8]
